@@ -1,0 +1,29 @@
+.product-details{
+    display: flex;
+    border-bottom: 1px solid grey;
+}
+
+.product-img{
+    width: 30%;
+    text-align: center;
+}
+
+.product-img img{
+    height: 140px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.product-info{
+    width: 70%;
+    margin-right: 15px;
+    padding: 10px;
+}
+
+.btn-regular{
+    width: 150px;
+    height: 25px;
+    background-color: goldenrod;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
